@@ -1,5 +1,7 @@
 # Sorting Algorithm Manager
 
+![](https://github.com/tede0/SortingAlgorithmManager/blob/main/sortingAlgoGif.gif)
+
 The user is presented with a number of sort algorithms to choose from (Console)
 Decision is given via the command line (Console.ReadLine() )
 The program asks for the length of an array via the command line
