@@ -13,9 +13,6 @@ The output:
 
 Sorting algorithms included: 
 
-SelectionSort
-BubbleSort
-MergeSort
-.NET library sort
+SelectionSort | BubbleSort | MergeSort | .NET library sort
 
 MVC pattern is used to separate the IO (View) from the model and the Factory Method pattern to generate the requested model classes.
